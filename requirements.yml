@@ -1,0 +1,4 @@
+---
+- src: geerlingguy.mysql
+- src: geerlingguy.java
+- src: git+https://github.com/vccabral/ansible-bamboobsc.git
